@@ -29,6 +29,10 @@
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
+         <loc>https://rysweet.github.io/amplihack/CHANGELOG_v0.9.1/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
          <loc>https://rysweet.github.io/amplihack/CODE_REVIEW/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
@@ -2005,6 +2009,10 @@
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
+         <loc>https://rysweet.github.io/amplihack/concepts/settings-manager-vs-permanent-changes/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
          <loc>https://rysweet.github.io/amplihack/concepts/unified-staging-architecture/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
@@ -2261,6 +2269,10 @@
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
+         <loc>https://rysweet.github.io/amplihack/howto/troubleshoot-hooks/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
          <loc>https://rysweet.github.io/amplihack/howto/validate-agent-learning/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
@@ -2482,6 +2494,10 @@
     </url>
     <url>
          <loc>https://rysweet.github.io/amplihack/reference/goal-seeking-agents-quick-reference/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://rysweet.github.io/amplihack/reference/hook-persistence-implementation/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
