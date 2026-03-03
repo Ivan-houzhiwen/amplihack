@@ -7,6 +7,16 @@ systematic software engineering.
 
 **📚 [View Full Documentation](https://rysweet.github.io/amplihack/)**
 
+## 📖 Reading Guide — Where to Start?
+
+**New to amplihack?** Start here → [Quick Start](#quick-start), then [First Session](#first-session), then [Configuration](#configuration)
+
+**Want to contribute?** Go to [Development](#development) and [CONTRIBUTING.md](CONTRIBUTING.md)
+
+**Ready to go deep?** Check out [Feature Catalog](#feature-catalog) and [Documentation Navigator](#documentation-navigator)
+
+---
+
 ```sh
 # Quick start
 uvx --from git+https://github.com/rysweet/amplihack amplihack claude
@@ -14,14 +24,15 @@ uvx --from git+https://github.com/rysweet/amplihack amplihack claude
 
 ## Table of Contents
 
-- [Why amplihack?](#why-amplihack)
-- [Quick Start](#quick-start)
-- [Core Concepts](#core-concepts)
-- [Feature Catalog](#feature-catalog)
-- [Configuration](#configuration)
-- [Documentation Navigator](#documentation-navigator)
-- [Development](#development)
-- [RustyClawd Integration](#rustyclawd-integration)
+- [🚀 Quick Start](#quick-start)
+- [📚 Core Concepts](#core-concepts)
+- [🔧 Configuration](#configuration)
+- [📖 Development](#development)
+- [⚙️ Feature Catalog](#feature-catalog) _(advanced)_
+- [🔍 Documentation Navigator](#documentation-navigator) _(reference)_
+- [🤖 RustyClawd Integration](#rustyclawd-integration)
+- [📄 License](#license)
+- [❓ Why amplihack?](#why-amplihack)
 - [License](#license)
 
 ## Why amplihack?
